@@ -365,4 +365,4 @@ app.get('/orchestrator/api/events', (req, res) => {
     );
 });
 
-app.listen(port, host, () => console.log(`Mock server listening on port ${port}`));
+app.listen(port, () => console.log(`Mock server listening on port ${port}`));
