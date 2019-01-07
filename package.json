@@ -1,4 +1,14 @@
 {
+  "name": "orch-ui-service-eventlog-node-express",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": "8.11.3",
+    "npm": "6.5.0"
+  },
     "name": "socket-server",
     "version": "0.0.1",
     "description": "socket.io server",
