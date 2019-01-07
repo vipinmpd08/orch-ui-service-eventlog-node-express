@@ -9,8 +9,7 @@ Event log service for React using Node and ExpressJS
 
 3. 'npm start' to run the Express service in 5000 port
 
-4. Visit 'http://<host>:3000/orchestrator/api/events' to get the logs
+4. Visit 'http://host:3000/orchestrator/api/events' to get the logs
 
 # Technologies used
 Node, Express, REST, Gitlab, Heroku, Atom IDE
- 
